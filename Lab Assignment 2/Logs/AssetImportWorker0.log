@@ -1,0 +1,582 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 7609 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Kashir/Sessional_1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57406
+Successfully changed project path to: C:/Users/Kashir/Sessional_1
+C:/Users/Kashir/Sessional_1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 58.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Kashir/Sessional_1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.5126
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56392
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002802 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.009 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001702 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.712 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 3.017900 ms (FindLiveObjects: 0.302700 ms CreateObjectMapping: 0.206200 ms MarkObjects: 2.330800 ms  DeleteObjects: 0.176400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SunnayLand/hit-3.png
+  artifactKey: Guid(6594f32832ca09945b504d4dd25941ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/hit-3.png using Guid(6594f32832ca09945b504d4dd25941ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60322d03c41cc3651c3d9e8ff91cd9e4') in 0.163915 seconds
+  Import took 0.168673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Scenes/SunnayLand/idle-2.png
+  artifactKey: Guid(44c4c539054c01242b37c1005f49828c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/idle-2.png using Guid(44c4c539054c01242b37c1005f49828c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8ba53b98b411d1c0a8a90380b6cdada') in 0.031858 seconds
+  Import took 0.038494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Scenes/SunnayLand/jump-5.png
+  artifactKey: Guid(1554dc6d9bc833b40bdb2157ff718d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/jump-5.png using Guid(1554dc6d9bc833b40bdb2157ff718d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac92699c146341f48d4efb68b7419c5a') in 0.026906 seconds
+  Import took 0.035280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Scenes/SunnayLand/walk-4.png
+  artifactKey: Guid(d188bf9b855145f43a28791216c6a13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/walk-4.png using Guid(d188bf9b855145f43a28791216c6a13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345715e04c8f0a83c7c2d8bec4ca44f0') in 0.033109 seconds
+  Import took 0.040731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B11.png
+  artifactKey: Guid(e894784cec0a44b49a32f49469fd3e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B11.png using Guid(e894784cec0a44b49a32f49469fd3e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd934f05909679ae300af08ad9ffc1ebd') in 0.028401 seconds
+  Import took 0.037851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Scenes/SunnayLand/jump-4.png
+  artifactKey: Guid(83e47b36e65ba7843b0bf97f9e35ae57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/jump-4.png using Guid(83e47b36e65ba7843b0bf97f9e35ae57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6345f5e64bd92e94cf7fc6afc8f030d') in 0.025581 seconds
+  Import took 0.032506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Scenes/SunnayLand/jump-1.png
+  artifactKey: Guid(8348d04e719febb4da8862c0ac4ff0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/jump-1.png using Guid(8348d04e719febb4da8862c0ac4ff0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91218a3e63ac6be620f1f3902a9371ff') in 0.038410 seconds
+  Import took 0.045990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Scenes/SunnayLand/jump-2.png
+  artifactKey: Guid(e177d03aa8a4b4743b1263babe88b570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/jump-2.png using Guid(e177d03aa8a4b4743b1263babe88b570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e4c8cbc92c58e6c19cba6fccf95d70') in 0.037081 seconds
+  Import took 0.041917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Scenes/SunnayLand/dead-1.png
+  artifactKey: Guid(7e29ee103df11df4bafda5bd3bd4733f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/dead-1.png using Guid(7e29ee103df11df4bafda5bd3bd4733f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938a60de241fcbf841c545d63bf6ba75') in 0.036005 seconds
+  Import took 0.041553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B10.png
+  artifactKey: Guid(ead8f9664a15f534285d52b4832849b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B10.png using Guid(ead8f9664a15f534285d52b4832849b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59431b57cba2a776915d0e35f37aaf4') in 0.034547 seconds
+  Import took 0.039607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Scenes/SunnayLand/dead-3.png
+  artifactKey: Guid(a177824a91301a1438d38788ba34d471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/dead-3.png using Guid(a177824a91301a1438d38788ba34d471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5abe32746932f9f836093183be2497d4') in 0.040136 seconds
+  Import took 0.046804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B9.png
+  artifactKey: Guid(ce6ec0a2620dcff4aa7813c6f3acbbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B9.png using Guid(ce6ec0a2620dcff4aa7813c6f3acbbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450959f92266f7e08a691fe94a68455e') in 0.050438 seconds
+  Import took 0.055698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scenes/SunnayLand/idle-4.png
+  artifactKey: Guid(b2cfb8d039095cb429b44746625fa602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/idle-4.png using Guid(b2cfb8d039095cb429b44746625fa602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00fd2eeac59430852ce17289028e30cc') in 0.028982 seconds
+  Import took 0.034643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Scenes/SunnayLand/walk-3.png
+  artifactKey: Guid(df90f377da5fe6c44a63a556be56ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/walk-3.png using Guid(df90f377da5fe6c44a63a556be56ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19639086936cccc5f7609d0bbaa720c8') in 0.045692 seconds
+  Import took 0.051990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/Scenes/SunnayLand/walk-2.png
+  artifactKey: Guid(7154d7e73417efb478dc4d993a2782ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/walk-2.png using Guid(7154d7e73417efb478dc4d993a2782ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9cb5af22a642d9f6c1b3d413e3b39b') in 0.036507 seconds
+  Import took 0.044260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Scenes/SunnayLand/walk-6.png
+  artifactKey: Guid(087e4a2f51799564387cc9af8f4a8cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/walk-6.png using Guid(087e4a2f51799564387cc9af8f4a8cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abcc584c99bb4f6e94d062a1ce59d2c3') in 0.039707 seconds
+  Import took 0.046698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Scenes/SunnayLand/jump-6.png
+  artifactKey: Guid(7b2d4ebbbdb46064988c3697f0e2609b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/jump-6.png using Guid(7b2d4ebbbdb46064988c3697f0e2609b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e293343854d45f9bceb06a6a02dc7ed') in 0.038591 seconds
+  Import took 0.047423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B8.png
+  artifactKey: Guid(e6822a66368b12744998aa9a4a331d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B8.png using Guid(e6822a66368b12744998aa9a4a331d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcf21ddf7696c84fc072ac2d82cd404e') in 0.036166 seconds
+  Import took 0.046339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Scenes/SunnayLand/walk-5.png
+  artifactKey: Guid(13f787219b9d0fb4dbe70926701c0c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/walk-5.png using Guid(13f787219b9d0fb4dbe70926701c0c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1598d677d628a36d79a020922f7b9fcb') in 0.042269 seconds
+  Import took 0.049179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Scenes/SunnayLand/dead-2.png
+  artifactKey: Guid(a3faa11a6b617e740904c19b0ce31c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/dead-2.png using Guid(a3faa11a6b617e740904c19b0ce31c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca301692383b9600420a550b06fd193') in 0.038275 seconds
+  Import took 0.044729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Scenes/SunnayLand/idle-1.png
+  artifactKey: Guid(92369a2822e6a034c9a0e43f8101f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/idle-1.png using Guid(92369a2822e6a034c9a0e43f8101f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed2a24edd3cc860204850c79a198aa3') in 0.037984 seconds
+  Import took 0.046140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Scenes/SunnayLand/dead-2.png
+  artifactKey: Guid(a3faa11a6b617e740904c19b0ce31c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/dead-2.png using Guid(a3faa11a6b617e740904c19b0ce31c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca301692383b9600420a550b06fd193') in 0.034655 seconds
+  Import took 0.043552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Scenes/SunnayLand/hit-1.png
+  artifactKey: Guid(27249aa056c40cd449d17e1a81f9cbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/hit-1.png using Guid(27249aa056c40cd449d17e1a81f9cbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf6f53e19502c3fda570af2fa80eef1') in 0.051901 seconds
+  Import took 0.058790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Scenes/SunnayLand/hit-2.png
+  artifactKey: Guid(26c64e53b256c184ab1af485b733e533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/hit-2.png using Guid(26c64e53b256c184ab1af485b733e533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79070c4340f63ae18fa0230e29e5ef42') in 0.032216 seconds
+  Import took 0.038815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Scenes/SunnayLand/dead-4.png
+  artifactKey: Guid(87feaabf113165d4db537d42e56c8813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/dead-4.png using Guid(87feaabf113165d4db537d42e56c8813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba80f3d9ad04ce75c2f36af1033f0ece') in 0.038637 seconds
+  Import took 0.043187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Scenes/SunnayLand/walk-1.png
+  artifactKey: Guid(d2a9328055e624748986da0e07abc425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/walk-1.png using Guid(d2a9328055e624748986da0e07abc425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9430e05ae85361c88807f3728b74593') in 0.032759 seconds
+  Import took 0.038567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Scenes/SunnayLand/idle-3.png
+  artifactKey: Guid(df924849f1e3eea46bbfcf7511d7e43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/idle-3.png using Guid(df924849f1e3eea46bbfcf7511d7e43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541ac4cb03dffb0cf8724a6dc033d4b0') in 0.027794 seconds
+  Import took 0.035459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Scenes/SunnayLand/jump-3.png
+  artifactKey: Guid(ab9c580b1ab3d1845bca47114fe84940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/jump-3.png using Guid(ab9c580b1ab3d1845bca47114fe84940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b34876b23550679f040a2b88a7be6f9') in 0.044910 seconds
+  Import took 0.050809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Scenes/SunnayLand/idle-3.png
+  artifactKey: Guid(df924849f1e3eea46bbfcf7511d7e43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/idle-3.png using Guid(df924849f1e3eea46bbfcf7511d7e43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541ac4cb03dffb0cf8724a6dc033d4b0') in 0.018490 seconds
+  Import took 0.027184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.154725 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A1.png
+  artifactKey: Guid(db9c004f7f5a2884686775a711d26b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A1.png using Guid(db9c004f7f5a2884686775a711d26b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf9497fd2b89fb87dc7d999724f0786') in 0.044977 seconds
+  Import took 0.058794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B4.png
+  artifactKey: Guid(203987e504fbd8a41905477cf92c2975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B4.png using Guid(203987e504fbd8a41905477cf92c2975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84640d34358c3ac7f74960eeb06e7840') in 0.023661 seconds
+  Import took 0.028485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B1.png
+  artifactKey: Guid(d028f7e2ebfdfcd45bc2b1a9a8cc8166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B1.png using Guid(d028f7e2ebfdfcd45bc2b1a9a8cc8166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602ddd9c24a9f31bb9b529355db71291') in 0.030725 seconds
+  Import took 0.036330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A7.png
+  artifactKey: Guid(f1059429bb5539d4385404ab2d2c85e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A7.png using Guid(f1059429bb5539d4385404ab2d2c85e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dfc7c7490e7cab10aca9266d09e7ce2') in 0.028159 seconds
+  Import took 0.035071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A2.png
+  artifactKey: Guid(44d77ed14dc23e9469f29185260eadeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A2.png using Guid(44d77ed14dc23e9469f29185260eadeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58d2067bc1be69b2c94c278a7b809e5') in 0.031958 seconds
+  Import took 0.037170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B2.png
+  artifactKey: Guid(d812a791d8460064b909e8a46ec1f575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B2.png using Guid(d812a791d8460064b909e8a46ec1f575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c928d18b4e73a7d0cb56f88aaaef7411') in 0.042168 seconds
+  Import took 0.048177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B5.png
+  artifactKey: Guid(0bc7ae303969e1c4881169b9bac0b12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B5.png using Guid(0bc7ae303969e1c4881169b9bac0b12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d08cd6648366e5b90d66a0448828bc5') in 0.034110 seconds
+  Import took 0.041288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B6.png
+  artifactKey: Guid(75ec95d84c3998149be4554b32439019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B6.png using Guid(75ec95d84c3998149be4554b32439019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c6b313e3c38d28dd8e2093f5eb71da5') in 0.021858 seconds
+  Import took 0.028460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B7.png
+  artifactKey: Guid(54839b62fe31b5b439f76a1d0361b71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B7.png using Guid(54839b62fe31b5b439f76a1d0361b71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24400852ee8cac2545fc4edd4ec7d311') in 0.042327 seconds
+  Import took 0.047612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Scenes/SunnayLand/attack-B3.png
+  artifactKey: Guid(5336584f5ecc89f41b8b8bc04ca7394d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-B3.png using Guid(5336584f5ecc89f41b8b8bc04ca7394d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed03c5693e6c4cd3bdde94e9de548b8') in 0.034807 seconds
+  Import took 0.039457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A6.png
+  artifactKey: Guid(674e9434f4258da41a486114e7d229de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A6.png using Guid(674e9434f4258da41a486114e7d229de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0105359bd8e185ec81e1c0df3fa7922e') in 0.027488 seconds
+  Import took 0.033694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A5.png
+  artifactKey: Guid(ecda024b90a16d44ba66e5521e134a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A5.png using Guid(ecda024b90a16d44ba66e5521e134a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02b864cfbfe541ba209252cb7a691ea') in 0.028869 seconds
+  Import took 0.035704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A3.png
+  artifactKey: Guid(ac27dc0bf8ed6fd4f98f015c21739bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A3.png using Guid(ac27dc0bf8ed6fd4f98f015c21739bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ca0713f8a09a929aeeecab75521ace') in 0.036761 seconds
+  Import took 0.042431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A8.png
+  artifactKey: Guid(c0edaeb273fd27047aceea5f89a3e78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A8.png using Guid(c0edaeb273fd27047aceea5f89a3e78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619208a07b87e7a101aed764acd18cde') in 0.036159 seconds
+  Import took 0.042196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A4.png
+  artifactKey: Guid(7379b497c04e8d24783350d8d6f8f046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A4.png using Guid(7379b497c04e8d24783350d8d6f8f046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c85ecfb26bcc6ce4345b7af67ed7855e') in 0.029897 seconds
+  Import took 0.036085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Scenes/SunnayLand/attack-A1.png
+  artifactKey: Guid(db9c004f7f5a2884686775a711d26b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunnayLand/attack-A1.png using Guid(db9c004f7f5a2884686775a711d26b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf9497fd2b89fb87dc7d999724f0786') in 0.019488 seconds
+  Import took 0.024653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.519622 seconds.
+  path: Assets/Scenes/New Physics Material 2D.physicsMaterial2D
+  artifactKey: Guid(703e8423e6cb6e04fb2517eb8ea6bdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Physics Material 2D.physicsMaterial2D using Guid(703e8423e6cb6e04fb2517eb8ea6bdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ecb99a7c6fcd4aa468be188a0bd17b') in 0.023362 seconds
+  Import took 0.028918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001168 seconds.
+  path: Assets/Scenes/New Physics Material 2D.physicsMaterial2D
+  artifactKey: Guid(703e8423e6cb6e04fb2517eb8ea6bdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Physics Material 2D.physicsMaterial2D using Guid(703e8423e6cb6e04fb2517eb8ea6bdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ecb99a7c6fcd4aa468be188a0bd17b') in 0.005045 seconds
+  Import took 0.011159 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001463 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.541 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2260.
+Total: 4.575100 ms (FindLiveObjects: 0.354100 ms CreateObjectMapping: 0.132100 ms MarkObjects: 3.896300 ms  DeleteObjects: 0.190000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002131 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.482 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2264.
+Total: 4.831400 ms (FindLiveObjects: 0.447200 ms CreateObjectMapping: 0.233100 ms MarkObjects: 3.853100 ms  DeleteObjects: 0.295100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001356 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.440 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 2.828500 ms (FindLiveObjects: 0.209300 ms CreateObjectMapping: 0.092100 ms MarkObjects: 2.369600 ms  DeleteObjects: 0.155600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 395.817815 seconds.
+  path: Assets/Scenes/Assignment2.cs
+  artifactKey: Guid(748d537ff8431dc4d8e6453845ef6a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Assignment2.cs using Guid(748d537ff8431dc4d8e6453845ef6a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aac857686ebb9799548b7ca004c6c7b') in 0.116954 seconds
+  Import took 0.131021 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003074 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.153 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2272.
+Total: 3.577600 ms (FindLiveObjects: 0.507100 ms CreateObjectMapping: 0.255500 ms MarkObjects: 2.652300 ms  DeleteObjects: 0.160100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002473 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.474 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2276.
+Total: 2.720500 ms (FindLiveObjects: 0.226100 ms CreateObjectMapping: 0.094900 ms MarkObjects: 2.242500 ms  DeleteObjects: 0.155600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.963318 seconds.
+  path: Assets/Scenes/Assignment2.cs
+  artifactKey: Guid(748d537ff8431dc4d8e6453845ef6a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Assignment2.cs using Guid(748d537ff8431dc4d8e6453845ef6a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ff1fedcd4726f786bd51fc2dbc9ced') in 0.007349 seconds
+  Import took 0.012013 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
